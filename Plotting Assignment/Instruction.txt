@@ -1,0 +1,35 @@
+Create a bar chart showing the count of customers by MaritalStatus.
+
+Visualize the proportion of customers by Gender using a pie chart.
+
+Generate a histogram of AnnualIncome to examine its distribution (Note: Convert AnnualIncome to a numeric format first).
+
+Create a column chart displaying the average number of TotalChildren for each EducationLevel
+
+Use a bar chart to compare the average AnnualIncome across different Occupation categories.
+
+Visualize the count of customers in each Occupation category using a pie chart.
+
+Generate a histogram to explore the age distribution of customers (Age needs to be derived from BirthDate)
+
+Plot a line chart to show changes in the average AnnualIncome over different age groups.
+
+Create a bar chart that shows the number of homeowners vs. non-homeowners (HomeOwner status).
+
+Use a column chart to display the total number of customers by EducationLevel.
+
+Visualize the distribution of TotalChildren using a histogram.
+
+Create a pie chart showing the proportion of different MaritalStatus categories within a specific Occupation.
+
+Plot a bar chart comparing the count of male vs. female customers in each EducationLevel.
+
+Use a line chart to depict the average number of TotalChildren across different income ranges.
+
+Generate a column chart that illustrates the count of customers by HomeOwner status for each MaritalStatus
+
+Visualize the distribution of customers' birth months using a bar chart (Extract month from BirthDate).
+
+Create a pie chart to represent the proportion of customers by Occupation within a specific income range.
+
+Use a bar chart to show the frequency of each EducationLevel category.
